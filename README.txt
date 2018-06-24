@@ -4,3 +4,5 @@ This template has been created by Damien Roque (ISAE Supaero)
 Voici mon rapport de stage MIAGE 1ère année.
 Il y a une version compressée (1,3Mo) et non compressée (58,8Mo)
 Les images sont moins nettes sur la version compressée
+
+Par rapport au code source le fichier maître qui fait appels aux différents fichiers et qui importe les packages est : rapport.tex
